@@ -1,4 +1,6 @@
-# THIS IS A FORK OF https://github.com/aseemk/json5
+# This is a fork of https://github.com/yosuke-furukawa/json5
+
+That repository has some large binaries that were committed in its history causing it to be really large and slow to download. This repository fixes that and is quick to download.
 
 json5 implemented by golang
 ================
